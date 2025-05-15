@@ -13,6 +13,6 @@ public class MusicPhone extends Phone {
 	}
 
 	protected void playMusic() {
-		System.out.println("Mp3플레이어에서 음악재생");
+		System.out.println("다운로드에서 음악재생");
 	}
 }
